@@ -40,15 +40,6 @@ presencia real de datos faltantes.
      `bachelor < masters < phd`.
 3. Validación del pipeline entrenando un modelo de `LogisticRegression` con `train_test_split`.
 
-## Cómo ejecutar
-
-```bash
-python -m venv venv
-source venv/bin/activate   # En Windows: venv\Scripts\activate
-pip install -r requirements.txt
-jupyter notebook Trabajo_Evaluativo_1_Preprocesamiento.ipynb
-```
-
 ## Autor
 
-_(agregar nombre y curso)_
+Laura Ortiz Franco 
