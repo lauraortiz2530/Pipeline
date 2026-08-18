@@ -27,7 +27,7 @@ dataset, mini-EDA, y diseño/implementación de un pipeline de pre-procesamiento
 El dataset cumple con las condiciones pedidas en la guía: mezcla de variables numéricas y
 categóricas (nominales y ordinales), baja cardinalidad en las nominales, entre 5 y 10 columnas, y
 presencia real de datos faltantes.
-
+https://www.kaggle.com/datasets/akshatsharma2/all-in-one-dataset-for-preprocessing-practice 
 ## Resumen del pipeline
 
 1. **Custom Transformer (`FunctionTransformer`)**: limpia texto de las columnas categóricas
